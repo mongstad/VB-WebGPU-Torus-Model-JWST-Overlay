@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-<h1>VB WebGPU Torus Model - JWST Early Galaxies Overlay</h1>h
+<h1>VB WebGPU Torus Model - JWST Early Galaxies Overlay</h1>
 
 <h2>Description</h2>
 <p>This interactive simulation instantiates nested toroidal resonance layers and overlays the positions of JWST early galaxies. It illustrates how the VB framework situates cosmological structure formation within a scalable toroidal lattice.</p>
