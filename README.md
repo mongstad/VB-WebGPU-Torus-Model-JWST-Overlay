@@ -38,3 +38,5 @@
 <h2>Run Instructions</h2>
 <p>Run locally in Chrome/Edge 113+ with WebGPU; no server required</p>
 
+## License
+This project is licensed under the Apache 2.0 License – see the [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE) file for details.
